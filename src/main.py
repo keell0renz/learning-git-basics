@@ -10,7 +10,7 @@ def substract(x, y):
     return x - y
 
 def divide(x, y):
-    return x + y
+    return x / y
 
 # Added some functionality directly to the 'main' branch.
 
