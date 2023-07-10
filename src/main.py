@@ -5,3 +5,9 @@ def add(x, y):
 
 def multiply(x, y): # Added in "development" branch
     return x * y
+
+def substract(x, y):
+    return x - y
+
+def divide(x, y):
+    return x / y
