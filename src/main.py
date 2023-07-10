@@ -13,3 +13,5 @@ def divide(x, y):
     return x / y
 
 # Added some functionality directly to the 'main' branch.
+
+# Never gonna give you up, never gonna let you down...
