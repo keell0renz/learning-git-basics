@@ -10,7 +10,7 @@ def substract(x, y):
     return x - y
 
 def divide(x, y):
-    return x + y # Intentional bug to check for pre-push scripts! Again :) And aagain :)
+    return x / y # Intentional bug to check for pre-push scripts! Again :) FIXED!
 
 # Added some functionality directly to the 'main' branch.
 
