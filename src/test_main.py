@@ -23,3 +23,5 @@ if __name__ == '__main__':
     unittest.main()
 
 # (project's directory)$ python -m unittest discover src/
+
+# Added some local pre-push scripts.
